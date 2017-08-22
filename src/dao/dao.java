@@ -11,6 +11,7 @@ public class dao {
         return x+y;
 
     }
+    public void ji(){}
     public static void main(String[] args) {
 
     }
