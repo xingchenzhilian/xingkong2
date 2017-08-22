@@ -6,6 +6,7 @@ package dao;
  * @Modified:
  */
 public class dao {
+    int x=9;
     public static void main(String[] args) {
 
     }
